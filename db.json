@@ -1,22 +1,41 @@
 {
-    "movies":[{
-        "MovieName":"Hulk",
-        "Year":2008,
-        "gender":"action",
-        "substile":true
-    },
+  "movies": [
     {
-        "MovieName":"Hulk",
-        "Year":2008,
-        "gender":"action",
-        "substile":true
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
     },
-    {
-        "MovieName":"Hulk",
-        "Year":2008,
-        "gender":"action",
-        "substile":true
-    }
-]
 
+    {
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
+    },
+    {
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
+    },
+    {
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
+    },
+    {
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
+    },
+    {
+      "MovieName": "Hulk",
+      "Year": 2008,
+      "gender": "action",
+      "substile": true
+    }
+  ]
 }
