@@ -1,41 +1,29 @@
 {
-  "movies": [
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    },
-
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    },
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    },
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    },
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    },
-    {
-      "MovieName": "Hulk",
-      "Year": 2008,
-      "gender": "action",
-      "substile": true
-    }
-  ]
+  "Teachers": [
+      {
+          "FirstName":"Hana",
+          "LastName":"Bana",
+          "Age":28,
+          "img":"https://expertphotography.b-cdn.net/wp-content/uploads/2019/04/female-face-girl-posing-outdoors-in-natural-light.jpg"
+          
+      },
+      {
+          "FirstName":"jasmin",
+          "LastName":"Porter",
+          "Age":30,
+          "img":"https://i.pinimg.com/236x/3b/91/24/3b912453bb9716f0db2c793b1d53f628.jpg"
+      },
+      {
+          "FirstName":"Sasha",
+          "LastName":"Barkov",
+          "Age":28,
+          "img":"https://i.pinimg.com/originals/77/34/91/77349132cca091f162fed320be3330d5.jpg"
+      },
+      {
+          "FirstName":"Madi",
+          "LastName":"Finnes",
+          "Age":27,
+          "img":"https://images.pexels.com/photos/4654185/pexels-photo-4654185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ]
 }
